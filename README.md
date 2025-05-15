@@ -3,8 +3,6 @@
 
 This is a a full-stack application that uses an LLM to convert natural language queries into SQL, provide explanations, and offer optimization suggestions.
 
-Due to short time constraints, skipped adding docker config files.
-
 ## Tech Stack
 
 -   **Frontend:** React (TypeScript, Vite)
