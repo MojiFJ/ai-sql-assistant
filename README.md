@@ -5,8 +5,6 @@ This is a a full-stack application that uses an LLM to convert natural language 
 
 Due to short time constraints, skipped adding docker config files.
 
-Disclaimer: AI assistant was used to generate some parts of the code especially for config files.
-
 ## Tech Stack
 
 -   **Frontend:** React (TypeScript, Vite)
